@@ -1,0 +1,7 @@
+here is my test
+text file
+it is 
+really cool
+to program
+in F# I promise
+I wouldn't lie to you
